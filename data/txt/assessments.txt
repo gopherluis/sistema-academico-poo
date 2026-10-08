@@ -1,0 +1,4 @@
+Class: sala1
+Assessment: prova1
+Weight: 3.0
+
